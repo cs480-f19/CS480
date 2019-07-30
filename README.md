@@ -44,7 +44,7 @@ Total | 100
 
 ## Course Materials
 
-* Slides
+* [Slides](slides)
 * Jupyter Notebooks
 
 ## Git & GitHub Cheat Sheets
