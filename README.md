@@ -10,7 +10,26 @@ Introduction to computational methods for intelligent control of autonomous agen
 
 ## Course Objectives
 
+## Textbook
+
+Artificial Intelligence: A Modern Approach. 3rd edition <br>
+http://aima.cs.berkeley.edu/
+
 ## Topics
+
+* Chapter 1 - Introduction
+* Chapter 2 - Intelligent Agents
+* Chapter 3 - Solving Problems by Searching
+* Chapter 5 - Adversarial Search
+* Chapter 6 - Constraint Satisfaction Problems
+* Chapter 7 - Logical Agents
+* Chapter 8 - First-order Logic
+* Chapter 9 - Inference in First-Order Logic
+* Chapter 13 - Quantifying Uncertainty
+* Chapter 14 - Probabilistic Reasoning
+* Chapter 16 - Making Simple Decisions
+* Chapter 18 - Learning From Examples
+* Chapter 20 - Learning Probabilistic Models
 
 ## Instructor
 
@@ -23,10 +42,7 @@ Web: http://www.cs.iit.edu/~mbilgic/
 
 ## Teaching Assistants
 
-## Textbook
 
-Artificial Intelligence: A Modern Approach. 3rd edition <br>
-http://aima.cs.berkeley.edu/
 
 ## Programming
 
