@@ -44,9 +44,17 @@ Web: http://www.cs.iit.edu/~mbilgic/
 
 
 
-## Programming
+## Programming Language
 
-Python
+Python 3.7
+
+## Tools and Packages
+
+* Python https://www.python.org/
+* Jupyter notebook https://jupyter.org/
+* Pandas https://pandas.pydata.org/
+* Scikit-learn http://scikit-learn.org/stable/ 
+* *more will be added later*
 
 ## Grading
 
