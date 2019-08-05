@@ -8,8 +8,6 @@ Introduction to computational methods for intelligent control of autonomous agen
 
 (CS 331 with min. grade of D and MATH 474 with min. grade of D) OR (CS 401 with min. grade of D and CS 402 with min. grade of D). MATH 474 may be taken concurrently.
 
-## Course Objectives
-
 ## Textbook
 
 Artificial Intelligence: A Modern Approach. 3rd edition <br>
@@ -60,10 +58,9 @@ Python 3.7
 
 Item | Points
 --- | ---
-Homeworks / Exercises | TBD
-Programming Assignments | TBD
-Exams | TBD
-Project | TBD
+Assignments | 30
+Midterm | 30
+Final | 40
 Total | 100
 
 ## Course Materials
