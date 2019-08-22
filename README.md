@@ -46,6 +46,13 @@ Office hours: Wednesdays 9am - 11am <br>
 Office: Stuart Building 110 <br>
 Email: xouyang3@hawk.iit.edu
 
+Akshay Sunku
+
+Office hours: Thursdays 1pm - 3pm <br>
+Office: Stuart Building 019 <br>
+Email: asunku@hawk.iit.edu
+
+
 ## Programming Language
 
 Python 3.7
