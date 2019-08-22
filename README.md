@@ -33,14 +33,18 @@ http://aima.cs.berkeley.edu/
 
 Mustafa Bilgic
 
-Office: Stuart Building, Room 217C <br>
 Office hours: Tuesdays, 11am - 12pm <br>
+Office: Stuart Building, Room 217C <br>
 Email: mbilgic@iit.edu <br>
 Web: http://www.cs.iit.edu/~mbilgic/
 
 ## Teaching Assistants
 
+Xu Ouyang
 
+Office hours: Wednesdays 9am - 11am <br>
+Office: Stuart Building 110 <br>
+Email: xouyang3@hawk.iit.edu
 
 ## Programming Language
 
