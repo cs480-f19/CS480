@@ -41,7 +41,7 @@ Web: http://www.cs.iit.edu/~mbilgic/
 ## Teaching Assistants
 
 Xu Ouyang <br>
-Office hours: Wednesdays 9am - 11am <br>
+Office hours: Fridays 10am - 12pm <br>
 Office: Stuart Building 110 <br>
 Email: xouyang3@hawk.iit.edu
 
